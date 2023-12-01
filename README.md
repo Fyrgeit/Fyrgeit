@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello :D
+English? 👉[Click here!](#english)👈
 
+Jag heter Måns och jag ❤️ programmering _(duh, varför skulle jag annars va på GitHub)_
+
+## English
+
+My name is Måns and I ❤️ programming _(duh, why else would I be on GitHub)_
 <!--
 **Fyrgeit/Fyrgeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
