@@ -1,11 +1,13 @@
 # Hello :D
 English? 👉[Click here!](#english)👈
 
-Jag heter Måns och jag ❤️ programmering _(duh, varför skulle jag annars va på GitHub)_
+Jag heter Måns och jag älskar programmering! _(duh, varför skulle jag annars va på GitHub)_
+
+Just nu går jag en Gymnasieingenjörsutbildning (TE4) med inriktning mjukvaruutveckling.
 
 ## English
 
-My name is Måns and I ❤️ programming _(duh, why else would I be on GitHub)_
+My name is Måns and I love programming! _(duh, why else would I be on GitHub)_
 <!--
 **Fyrgeit/Fyrgeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
